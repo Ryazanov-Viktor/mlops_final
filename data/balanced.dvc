@@ -1,0 +1,6 @@
+outs:
+- md5: b293ad3042553c04584132c4d37db140.dir
+  size: 422030294
+  nfiles: 1
+  hash: md5
+  path: balanced
